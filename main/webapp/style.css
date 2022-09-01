@@ -1,0 +1,32 @@
+@charset "UTF-8";
+body{
+background-color:#fcda6c;
+font-size:25px;
+color:black;
+}
+#message{
+	text-align:center;
+	border-style:groove;
+	border-width:5px;
+	border-color:blue;
+	border-radius:100px;
+}
+#footer{
+	background-color:#323651;
+	color:white;
+	position:fixed;
+    bottom:0;
+    width:100%;
+    left: 0;
+    text-align:center;
+}
+a:visited {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
