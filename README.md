@@ -6,5 +6,5 @@ For design , i used **HTML** and **CSS**, and for functionalities i used **JAVAS
 Features:<br>
 * Display live current date and time (Hour, Minutes, Secundes).<br>
 
-Finally, it's a simple Dynamic Web Project.![Uploading fwj.png…]()
+Finally, it's a simple Dynamic Web Project.!
 
